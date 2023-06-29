@@ -49,7 +49,7 @@ Quando o usuário clica para ver seu recorde, é aberta uma janela de JOptionPan
 
 # JavaHangman  [EN]
   
-  This is my first project in programming done in a group, being a work for the college. The concept of the project is a hangman game, but the words used are just Java terms. We used the NetBeans IDE to make the game, and MySQL to make the database, we just used the languages Java and SQL to do the project. The game isn't perfect, but this is my first project yet in programming. The game is in Portuguese, because I am from Brazil, and we didn't add other languages to the game, so the screens are all in Portuguese. The first screen is "CadastroLoginTela.java" (RegisterLoginScreen), in it the user has the option to register, login, or exit.
+  This is my first project in programming done in a group, being a college assignment. The concept of the project is a hangman game, but the words used are just Java terms. We used the NetBeans IDE to make the game, and MySQL to make the database, we just used the languages Java and SQL to do the project. The game isn't perfect, but this is my first project yet in programming. The game is in Portuguese, because I am from Brazil, and we didn't add other languages to the game, so the screens are all in Portuguese. The first screen is "CadastroLoginTela.java" (RegisterLoginScreen), in it the user has the option to register, login, or exit.
 
 ![image](https://github.com/leocaloni/JavaHangman/assets/127552139/76bd34f9-6afe-42fe-a7e6-1c1d043a1341)
 (CadastroLoginTela.java) - (RegisterLoginScreen)
