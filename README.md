@@ -45,7 +45,7 @@ Quando o usuário clica para ver seu recorde, é aberta uma janela de JOptionPan
 
 ![image](https://github.com/leocaloni/JavaHangman/assets/127552139/d1d728d8-ad28-43fc-b574-414b823b7131)
 
-  Portanto esse é o meu primeiro projeto, como dito outras vezes não está perfeito e está longe de estar, futuramente irei realizar outros projetos em grupo ou sozinho, e com isso os próximos projetos serão mais bem planejados e executados de uma forma melhor. Atualmente eu ainda não sei fazer praticamente nada na área front-end, portanto pretendo estudar mais essa área para realizar projetos com interfaces gráficas melhores e também melhorar a parte do back-end, tendo em vista que esse projeto ainda apresenta alguns erros.
+  Portanto esse é o meu primeiro projeto, como dito outras vezes não está perfeito, futuramente irei realizar outros projetos em grupo ou sozinho, e com isso os próximos projetos serão mais bem planejados e executados de uma forma melhor. Atualmente eu ainda não sei fazer praticamente nada na área front-end, portanto pretendo estudar mais essa área para realizar projetos com interfaces gráficas melhores e também melhorar a parte do back-end, tendo em vista que esse projeto ainda apresenta alguns erros.
 
 # JavaHangman  [EN]
   
